@@ -1,0 +1,11 @@
+{
+    "name": "Mega Box Token",
+    "website": "https://safe-box-s.io",
+    "description": "A token with self swap by USDT produced by an ascendant price algorithm",
+    "explorer": "https://polygonscan.com/address/0x509d6ffd8f76bc4ce9565a6899cea06552536037",
+    "type": "Polygon",
+    "symbol": "MGB",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x509d6ffd8f76bc4ce9565a6899cea06552536037"
+}
